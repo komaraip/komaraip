@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [komaraip.com](https://komaraip.com/)
+- 👨‍💻 All of my projects are available at **[here](https://project.komaraip.com/)**
 
-- 📫 How to reach me **komaraindra21@gmail.com**
+- 📫 Reach me via **[email](mailto:komaraindra21@gmail.com)**
 
-- 📄 Know about my experiences, [view my CV](https://komaraip.com/assets/cv_komaraindraputra.pdf)
+- 📄 Know about my experiences, at **[website](https://komaraip.com/)** or **[resume](https://komaraip.com/assets/cv_komaraindraputra.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
