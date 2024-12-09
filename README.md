@@ -6,12 +6,12 @@
 - 🔭 I’m currently working on **[Career Apex](https://github.com/komaraip/careerapex)**
 
 - 🌱 I’m currently learning ReactJs and NodeJs
-
+  
+- 📄 Know about my experiences, at my **[portfolio website](https://komaraip.com/)**
+  
 - 👨‍💻 All of my projects are available at **[here](https://project.komaraip.com/)**
 
 - 📫 Reach me via **[email](mailto:komaraindra21@gmail.com)**
-
-- 📄 Know about my experiences, at **[website](https://komaraip.com/)** or **[resume](https://komaraip.com/assets/cv_komaraindraputra.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
