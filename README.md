@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaraip&label=Profile%20views&color=0e75b6&style=flat" alt="komaraip" /> </p>
 
-- 🔭 I’m currently working on [Career Apex](https://github.com/komaraip/careerapex)
+- 🔭 I’m currently working on **[Career Apex](https://github.com/komaraip/careerapex)**
 
-- 🌱 I’m currently learning **Laravel, ReactJs, NodeJs**
+- 🌱 I’m currently learning ReactJs and NodeJs
 
 - 👨‍💻 All of my projects are available at **[here](https://project.komaraip.com/)**
 
