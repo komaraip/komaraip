@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaraip&label=Profile%20views&color=0e75b6&style=flat" alt="komaraip" /> </p>
 
-- 🔭 I’m currently working on **[Career Apex](https://github.com/komaraip/careerapex)**
+- 🔭 I’m currently working on **[Career Apex](https://github.com/komaraip/career-apex)**
 
 - 🌱 I’m currently learning ReactJs and NodeJs
   
