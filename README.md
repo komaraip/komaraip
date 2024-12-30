@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Komara Indra Putra</h1>
-<h3 align="center">A Computer Science student with over 2 years of experience specializing in Website Development and UI/UX design.</h3>
+<h3 align="center">A Computer Science student with over 2 years of experience specializing in Website Development and UI/UX Design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaraip&label=Profile%20views&color=0e75b6&style=flat" alt="komaraip" /> </p>
 
 - 🔭 I’m currently working on **[Zaixs Apparel](https://github.com/komaraip/zaixs-apparel)**
 
-- 🌱 I’m currently learning ReactJs and NodeJs
+- 🌱 I’m currently learning React.Js and Node.Js
   
 - 📄 Know about my experiences, at my **[portfolio website](https://komaraip.com/)**
   
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="komaraip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komaraip" height="30" width="40" /></a>
 <a href="https://instagram.com/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komaraip" height="30" width="40" /></a>
+<a href="https://twitter.com/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="komaraip" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/komara indra putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="komara indra putra" height="30" width="40" /></a>
 </p>
 
