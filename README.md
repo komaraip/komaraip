@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Komara Indra Putra</h1>
 
-<h3 align="center">A Computer Science student with over 2 years of experience specializing in Website Development and UI/UX Design.</h3>
+<h3 align="center">A Computer Science student with over 3 years of experience specializing in Website Development and UI/UX Design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaraip&label=Profile%20views&color=0e75b6&style=flat" alt="komaraip" /> </p>
 
 - 🔭 I’m currently working on **[Zaixs Apparel](https://github.com/komaraip/zaixs-apparel)**
 
-- 🌱 I’m currently learning React.Js, Docker, & CI/CD
+- 🌱 I’m currently learning React.Js, and Golang
   
 - 📄 Know about my experiences, at my **[portfolio website](https://komaraip.com/)**
   
 - 👨‍💻 All of my projects are available at **[here](https://project.komaraip.com/)**
 
-- 📫 Reach me via **[email](mailto:komaraindra21@gmail.com)**
+- 📫 Reach me via **[email](mailto:komaraindraputra@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 
