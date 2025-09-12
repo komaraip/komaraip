@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning React.Js, and Golang
   
-- 📄 Know about my experiences, at my **[portfolio website](https://komaraip.com/)**
-  
-- 👨‍💻 All of my projects are available at **[here](https://project.komaraip.com/)**
+- 📄 Know about my experiences and works, check my **[portfolio website](https://komaraip.com/)**
 
 - 📫 Reach me via **[email](mailto:komaraindraputra@gmail.com)**
 
