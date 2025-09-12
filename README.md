@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaraip&label=Profile%20views&color=0e75b6&style=flat" alt="komaraip" /> </p>
 
-- 🔭 I’m currently working on **[Zaixs Apparel](https://github.com/komaraip/zaixs-apparel)**
+- 🔭 I’m currently working on new project **[Zaixs Apparel](https://github.com/komaraip/zaixs-apparel)**, **[MarVision](https://github.com/komaraip/marvision)** and **[MoneyMate](https://github.com/komaraip/moneymate)**
 
 - 🌱 I’m currently learning React.Js, and Golang
   
 - 📄 Know about my experiences and works, check my **[portfolio website](https://komaraip.com/)**
 
-- 📫 Reach me via **[email](mailto:komaraindraputra@gmail.com)**
+- 📫 Reach me via **[email](mailto:komaraindra21@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 
