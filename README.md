@@ -12,15 +12,6 @@
 
 - 📫 Reach me via **[email](mailto:komaraindraputra@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komaraip" height="30" width="40" /></a>
-  <a href="https://instagram.com/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komaraip" height="30" width="40" /></a>
-  <a href="https://twitter.com/komaraip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="komaraip" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/komara indra putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="komara indra putra" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
