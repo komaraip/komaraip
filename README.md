@@ -10,7 +10,7 @@
   
 - 📄 Know about my experiences and works, check my **[portfolio website](https://komaraip.com/)**
 
-- 📫 Reach me via **[email](mailto:komaraindra21@gmail.com)**
+- 📫 Reach me via **[email](mailto:komaraindraputra@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 
